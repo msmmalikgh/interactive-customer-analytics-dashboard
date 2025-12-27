@@ -1,4 +1,4 @@
-# interactive-customer-analytics-dashboard
+# interactive-customer-analytics-dashboard using Streamlit
 A Streamlit-based interactive dashboard for Customer Analytics. Upload raw retail data to automatically compute RFM segmentation, estimate CLTV, visualize key metrics, and generate downloadable segment-wise reports.
 
 This project provides a user-friendly Streamlit dashboard for retail customer analytics. Features include:
